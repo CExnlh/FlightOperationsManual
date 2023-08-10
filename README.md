@@ -27,8 +27,16 @@
 > Cessna208 (G1000)[只有G1000]\
 > Cessna172 (G1000)
 
-格鲁门
-> F14
+军机 NATOPS
+> AV-8B/TAV-8B\
+> C-130T\
+> EA-18G\
+> F-14A\
+> F-14D\
+> F/A-18A/B/C/D\
+> F/A-18E/F\
+> SH-60B\
+> UH-3H
 
 中航
 > 新舟600
